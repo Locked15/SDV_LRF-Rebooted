@@ -1,0 +1,14 @@
+{
+  "rabbit-foot": "Rabbit's Foot",
+  "rabbit-foot-buff-des": "Rabbit's Foot make your day much more lucky!",
+  "general-settings": "General Settings",
+
+  "base-value": "Base bonus value",
+  "base-value-des": "Base 'Rabbit's Foot' luck value (Base is 1).",
+
+  "multiplier-value": "Quality luck multiplier",
+  "multiplier-value-des": "Luck multiplier, depending on 'Rabbit's Foot' quality (Base is 1.0).",
+
+  "count-multiplier": "Count Multiplier",
+  "count-multiplier-des": "If sets true, few rabbit foots with same quality will give multiplier bonus."
+}

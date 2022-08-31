@@ -1,0 +1,10 @@
+{
+  "Name": "Lucky Rabbit's Foot (Rebooted)",
+  "Author": "Chelsea Bingiel and Locked15",
+  "Version": "1.1",
+  "Description": "Makes carrying around a rabbit's foot actually lucky!",
+  "UniqueID": "ChelseaBingiel.LuckyRabbitsFoot",
+  "EntryDll": "LuckyRabbitFoot_Rebooted.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:11447" ]
+}
